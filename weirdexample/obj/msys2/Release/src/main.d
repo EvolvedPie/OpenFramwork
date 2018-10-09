@@ -1,5 +1,5 @@
 obj/msys2/Release/src/main.o: \
- C:/msys64/of_v0.10.0_msys2_release/apps/git/CT_toolkit_sessions/session_2/src/main.cpp \
+ C:/msys64/of_v0.10.0_msys2_release/apps/git/OpenFramwork/weirdexample/src/main.cpp \
  C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/ofMain.h \
  C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/utils/ofConstants.h \
  C:/msys64/of_v0.10.0_msys2_release/libs/tess2/include/tesselator.h \
@@ -330,7 +330,7 @@ obj/msys2/Release/src/main.o: \
  C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/3d/of3dUtils.h \
  C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/3d/ofCamera.h \
  C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/3d/ofEasyCam.h \
- C:/msys64/of_v0.10.0_msys2_release/apps/git/CT_toolkit_sessions/session_2/src/ofApp.h
+ C:/msys64/of_v0.10.0_msys2_release/apps/git/OpenFramwork/weirdexample/src/ofApp.h
 
 C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/ofMain.h:
 
@@ -992,4 +992,4 @@ C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/3d/ofCamera.h:
 
 C:/msys64/of_v0.10.0_msys2_release/libs/openFrameworks/3d/ofEasyCam.h:
 
-C:/msys64/of_v0.10.0_msys2_release/apps/git/CT_toolkit_sessions/session_2/src/ofApp.h:
+C:/msys64/of_v0.10.0_msys2_release/apps/git/OpenFramwork/weirdexample/src/ofApp.h:
